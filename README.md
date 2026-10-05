@@ -1,8 +1,25 @@
-# ataosgouei.com — Light atlas edition
+# ataosgouei.com — complete website folder
 
-Upload this folder’s contents to the root of your existing website hosting repository. Keep the assets folder and CNAME. No build step or dependencies required.
+## Publish on GitHub Pages
 
-Updated: spacious three-region research atlas, flowing light-wave artwork, mobile layout, accessible focus states, real illustrative photographs. No figures from the author’s papers are included. Existing research descriptions and publication list retained. Other conceptual graphics are explicitly labeled.
+1. Extract the ZIP on your computer.
+2. Open the extracted ataosgouei-website folder.
+3. In your website repository, open the folder that currently contains index.html.
+4. Choose Add file > Upload files. Drag all files AND the assets folder from inside ataosgouei-website into the upload area.
+5. Commit changes to the branch used by GitHub Pages.
+
+Upload the CONTENTS of the extracted folder, not the ZIP and not the outer ataosgouei-website folder. index.html and CNAME must remain at the existing website root.
+
+Your original profile photo is included as photo.jpg. The portrait crop and biography are preserved. Icons, the social preview image, 404.html, and the custom domain CNAME are included.
+
+## Chiral section update
+
+The chiral section displays the schematic from Jones et al., Nature Photonics 18, 982–989 (2024), Figure 1(a), DOI: 10.1038/s41566-024-01486-z.
+Source: https://www.nature.com/articles/s41566-024-01486-z
+License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+The source PNG is embedded in index.html. The display is clipped to the schematic; artwork is unchanged. The caption credits the authors and identifies the figure as an example from the literature, not Ata's work.
+
+The five other research illustrations are the original Wikimedia photographs restored into assets/. They have not been replaced with the other proposed journal figures.
 
 ## Image credits
 
